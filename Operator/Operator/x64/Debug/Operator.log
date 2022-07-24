@@ -1,0 +1,10 @@
+﻿  test.c
+D:\Project\Cstudy\Operator\Operator\test.c(226,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Project\Cstudy\Operator\Operator\test.c(226,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Project\Cstudy\Operator\Operator\test.c(230,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Project\Cstudy\Operator\Operator\test.c(230,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Project\Cstudy\Operator\Operator\test.c(237,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Project\Cstudy\Operator\Operator\test.c(237,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Project\Cstudy\Operator\Operator\test.c(238,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Project\Cstudy\Operator\Operator\test.c(238,9): message : 请考虑在格式字符串中使用“%zd”
+  Operator.vcxproj -> D:\Project\Cstudy\Operator\x64\Debug\Operator.exe
